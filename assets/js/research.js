@@ -4,17 +4,17 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "A Batch Normalized Inference Network Keeps this awake",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "Praanav",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "once upon a  time it was on meet",
     researchYr: 2020,
     citebox: "popup1",
     image: "assets/images/research-page/inteferenceNetwork.png",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "hein matab har chiz padhna jarori hai??//",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 1",
@@ -22,17 +22,17 @@ const research = [
   },
 
   {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    title: "JUST A PLACEHOLDER",
     authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
+      "COMMING SOON",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "COMMING SOON",
+    researchYr: 2022,
     citebox: "popup2",
     image: "assets/images/research-page/crossLingual.png",
     citation: {
       vancouver:
-        "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "KK BYE BYE",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 2",
@@ -41,16 +41,16 @@ const research = [
 
   {
     title:
-      "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
-    authors: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis",
+      "COMMING SOON",
+    authors: "..........",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "WTF U EXPECT FROM 14 Y.O KID??/ I AM BUSY ALWAYS CAN'T WORK ON THESE SHIT PROJECTS",
     researchYr: 2020,
     citebox: "popup3",
     image: "assets/images/research-page/wordRepresentation.png",
     citation: {
       vancouver:
-        "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "UHHH",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 3",
@@ -59,17 +59,17 @@ const research = [
 
   {
     title:
-      "A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking",
+      "HI DUMMY DATA 4",
     authors:
-      "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou",
+      "SERVERLESS",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "OWO",
     researchYr: 2020,
     citebox: "popup4",
     image: "assets/images/research-page/dialogueState.png",
     citation: {
       vancouver:
-        "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "KEK THNX BYE BYE",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 4",
@@ -77,16 +77,16 @@ const research = [
   },
 
   {
-    title: "Dual Super-Resolution Learning for Semantic Segmentation",
-    authors: "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi",
+    title: "JUST ONE MORE PLACEHOLDER",
+    authors: "OWO",
     conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "HUH",
     researchYr: 2020,
     citebox: "popup5",
     image: "assets/images/research-page/semanticSegmentation.png",
     citation: {
       vancouver:
-        "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "JUST DIE I DON'T CARE THNX",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 5",
@@ -94,16 +94,16 @@ const research = [
   },
 
   {
-    title: "Deep Unfolding Network for Image Super-Resolution",
-    authors: "Zhang, Kai and Van Gool, Luc and Timofte, Radu",
+    title: "HI",
+    authors: "HLO",
     conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "IMAO",
     researchYr: 2020,
     citebox: "popup6",
     image: "assets/images/research-page/deepNetwork.png",
     citation: {
       vancouver:
-        "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "HMMM THNX BYYE",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 6",
@@ -112,16 +112,16 @@ const research = [
 
   {
     title:
-      "Unsupervised Learning for Intrinsic Image Decomposition From a Single Image",
-    authors: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng",
+      "HM OP",
+    authors: "KEK",
     conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "BBYE)",
     researchYr: 2020,
     citebox: "popup7",
     image: "assets/images/research-page/imageDecomposition.png",
     citation: {
       vancouver:
-        "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "Li",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 7",
@@ -129,17 +129,17 @@ const research = [
   },
   {
     title:
-      "Forward and Backward Information Retention for Accurate Binary Neural Networks",
+      "K THNKX",
     authors:
-      "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan",
+      "MADE FOR FLEX",
     conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      ":0",
     researchYr: 2020,
     citebox: "popup8",
     image: "assets/images/research-page/neuralNetworks.jpg",
     citation: {
       vancouver:
-        "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "SOJAO",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 8",
