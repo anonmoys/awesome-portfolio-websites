@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/pexels-pixabay-207580.jpg",
     place: "TrimSpecs",
     time: "(May, 2020 - present)",
     desp: "<li>Worked to miggrate servers.</li> <li>Made changes in many commits.</li> <li>Created some of the modules for users</li>",
